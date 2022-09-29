@@ -3,8 +3,7 @@
     ios::sync_with_stdio(false); \
     cin.tie(0);
 
-typedef long long ll;
-typedef unsigned long long ull;
+typedef unsigned long long ll;
 using namespace std;
 
 ll fact(ll n) {
